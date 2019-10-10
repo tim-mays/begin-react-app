@@ -7,7 +7,6 @@ folder build
 @http
 get /api
 get /catalog
-post /catalog
 
 @tables
 data
